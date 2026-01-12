@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "天使のクローバー",
+  "base_artist": "DIVELA",
+  "createdAt": "2026-01-12T11:41:43.845366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天使のクローバー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_天使のクローバー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天使のクローバー",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_天使のクローバー_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天使のクローバー (instrumental)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/03_天使のクローバー_(instrumental)_MORE_MORE_JUMP!.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天使のクローバー",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン",
+      "has_synced": true,
+      "path": "select/04_天使のクローバー_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天使のクローバー (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 &...",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_天使のクローバー_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&..._MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天使のクローバー",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine Rin",
+      "has_synced": true,
+      "path": "select/06_天使のクローバー_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天使のクローバー",
+      "artist": "花里みのり",
+      "has_synced": false,
+      "path": "select/07_天使のクローバー_花里みのり.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "天使のクローバー",
+      "artist": "MORE MORE JUMP![花里みのり(CV.小倉唯)、桐谷遥(CV.吉岡茉祐)、桃井愛莉(CV.降幡愛)、日野森雫(CV.本泉莉奈)]",
+      "has_synced": true,
+      "path": "select/08_天使のクローバー_MORE_MORE_JUMP![花里みのり(CV.小倉唯)、桐谷遥(CV.吉岡茉祐)、桃井愛莉(CV.降幡愛)、日野森雫(CV.本泉莉奈)].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天使のクローバー (feat. 鏡音リン)",
+      "artist": "DIVELA, 鏡音リン",
+      "has_synced": false,
+      "path": "select/pl_01_天使のクローバー_(feat._鏡音リン)_DIVELA,_鏡音リン.txt"
+    }
+  ]
+}
